@@ -2,6 +2,35 @@
 
 A new Flutter project.
 
+## Design
+
+
+<div style="text-align: center">
+<table><tr>
+   </td>
+
+   <td style="text-align: center">
+    <img width="180" alt="BMW" src="/images/design1.png">
+        OnBording_Screen
+  </td>
+
+    
+
+  </td>
+
+   <td style="text-align: center">
+    <img width="180" alt="BMW" src="/images/design2.png">
+        Login_Screen
+  </td>
+
+  <td style="text-align: center">
+    <img width="180" alt="BlueAquilae Twitter Meteo" src="/images/design3.png">
+        Splash_Screen
+  </td>
+
+</tr></table>
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
